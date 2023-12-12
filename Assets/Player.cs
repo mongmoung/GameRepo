@@ -8,15 +8,8 @@ public class Player : MonoBehaviour
     void Start()
     {
         Debug.Log("TEST");
-
         transform.position = Vector3.zero;
-       Debug.Log("TESTTTT");
-
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+
 }
